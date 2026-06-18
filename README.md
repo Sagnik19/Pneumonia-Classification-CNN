@@ -124,7 +124,7 @@ http://localhost:8501
 Clone Repository:
 
 ```bash
-git clone <repository-url>
+https://github.com/Sagnik19/Pneumonia-Classification-CNN.git
 ```
 
 Create Virtual Environment:
@@ -163,6 +163,4 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 
-Sagnik Das
-
-Data Science Student | Machine Learning & Deep Learning Enthusiast
+Sagnik19
